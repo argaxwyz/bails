@@ -10,7 +10,7 @@
         "url": "https://github.com/argaxwyz/bails"
     },
     "license": "MIT",
-    "author": "dilxzcoders",
+    "author": "ArgaXwyz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
